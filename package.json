@@ -1,0 +1,15 @@
+{
+  "name": "maintoy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peipol",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Peipol/the-infinite-plane-thing"
+  },
+  "description": ""
+}
